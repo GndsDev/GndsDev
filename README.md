@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:00F7FF&text=GABRIEL%20NUNES&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:00F7FF&text=GABRIEL%20NUNES&fontColor=00F7FF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20ONLINE&descAlignY=58&descSize=16&animation=fadeIn" alt="Gabriel Nunes banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&lines=%5BSYSTEM%5D+Initializing+developer+profile...;%5BOK%5D+Backend+modules+loaded.;%5BOK%5D+Frontend+interface+connected.;%5BOK%5D+Database+connection+established.;%3E+Software+Engineer+%7C+Full+Stack+Developer;%3E+Building+systems.+Solving+problems.+Shipping+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&lines=%5BSYSTEM%5D+Initializing+developer+profile...;%5BOK%5D+Backend+modules+loaded.;%5BOK%5D+Frontend+interface+connected.;%3E+Software+Engineer+%7C+Full+Stack+Developer;%3E+Building+systems.+Solving+problems.+Shipping+code." alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GndsDev&label=PROFILE%20SCANS&color=00b8d4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/GndsDev?label=FOLLOWERS&style=for-the-badge&color=00b8d4&labelColor=0d1117" />
-<img src="https://img.shields.io/github/stars/GndsDev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=00b8d4&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=GndsDev&label=PROFILE%20SCANS&color=00b8d4&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/GndsDev?label=FOLLOWERS&style=for-the-badge&color=00b8d4&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/GndsDev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=STARS&color=00b8d4&labelColor=0d1117" alt="Stars"/>
 
 </div>
 
@@ -46,21 +46,17 @@ Atualmente, venho aprofundando meus conhecimentos em **Java, Spring Boot, Angula
 
 ### `CORE SYSTEMS`
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,angular,html,css&theme=dark" alt="Core technologies"/>
 
 ### `DATA & INFRASTRUCTURE`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,maven&theme=dark" alt="Data and infrastructure"/>
 
 ### `DEVELOPMENT TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Development tools"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ![Java](https://img.shields.io/badge/Java-CORE-00b8d4?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
 ![Spring](https://img.shields.io/badge/Spring_Boot-BACKEND-00b8d4?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
@@ -74,22 +70,82 @@ Atualmente, venho aprofundando meus conhecimentos em **Java, Spring Boot, Angula
 
 ## `> FEATURED.PROJECTS`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/GndsDev/HubOn">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GndsDev&repo=HubOn&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&bg_color=0D1117" />
-</a>
-<a href="https://github.com/GndsDev/Abbainc">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GndsDev&repo=Abbainc&theme=transparent&hide_border=true&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&bg_color=0D1117" />
-</a>
+<h3 align="center">⚡ HubOn</h3>
 
-</div>
+<p align="center"><b>Restaurant Operations Platform</b></p>
 
-### `01 // HubOn`
+Sistema full stack para gerenciamento da operação de restaurantes: atendimento, comandas, vendas, pagamentos, preparo, estoque, caixa e usuários.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java_21-0D1117?style=flat-square&logo=openjdk&logoColor=00F7FF" alt="Java 21"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=00F7FF" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Angular_21-0D1117?style=flat-square&logo=angular&logoColor=00F7FF" alt="Angular 21"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F7FF" alt="PostgreSQL"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/GndsDev/HubOn"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-HubOn-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="HubOn repository"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">◈ Abbainc</h3>
+
+<p align="center"><b>Software Engineering Project</b></p>
+
+Projeto de software com foco na evolução prática de engenharia, organização de código e construção de aplicações.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Software_Engineering-0D1117?style=flat-square&logo=github&logoColor=00F7FF" alt="Software engineering"/>
+<img src="https://img.shields.io/badge/Development-0D1117?style=flat-square&logo=git&logoColor=00F7FF" alt="Development"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/GndsDev/Abbainc"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-Abbainc-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Abbainc repository"/></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⌬ CadMed</h3>
+
+<p align="center"><b>Application Development</b></p>
+
+Projeto voltado ao desenvolvimento e aplicação prática de conceitos de engenharia de software.
+
+<p align="center">
+<a href="https://github.com/GndsDev/CadMed"><img src="https://img.shields.io/badge/ACCESS_REPOSITORY-CadMed-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="CadMed repository"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">◉ More Systems</h3>
+
+<p align="center"><b>Continuous Development</b></p>
+
+Novos projetos, experimentos e estudos de backend, frontend, arquitetura e infraestrutura.
+
+<p align="center">
+<a href="https://github.com/GndsDev?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL-REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="All repositories"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> HUBON.SYSTEM`
 
 > **Full Stack Restaurant Management System**
-
-Sistema para gerenciamento da operação completa de restaurantes, centralizando **atendimento, pedidos, pagamentos, preparo, estoque, caixa e gestão de usuários**.
 
 ```text
 BACKEND    Java 21 • Spring Boot • Spring Security • JPA
@@ -99,20 +155,6 @@ SECURITY   JWT • Role-Based Access Control
 INFRA      Docker • Docker Compose
 STATUS     MVP FUNCIONAL
 ```
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-HubOn-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/GndsDev/HubOn)
-
-### `02 // Abbainc`
-
-Projeto de software desenvolvido com foco em evolução prática de engenharia de software e construção de aplicações.
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-Abbainc-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/GndsDev/Abbainc)
-
-### `03 // CadMed`
-
-Projeto voltado ao desenvolvimento e aplicação prática de conceitos de software.
-
-[![Repository](https://img.shields.io/badge/ACCESS_REPOSITORY-CadMed-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/GndsDev/CadMed)
 
 ---
 
@@ -149,12 +191,27 @@ SYSTEM STATUS: ONLINE █
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GndsDev&show_icons=true&hide_border=true&theme=transparent&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&bg_color=0D1117&ring_color=00F7FF" />
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GndsDev&layout=compact&hide_border=true&theme=transparent&title_color=00F7FF&text_color=C9D1D9&bg_color=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GndsDev&theme=github_dark" width="98%" alt="GitHub profile details"/>
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=GndsDev&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GndsDev&theme=github_dark" width="47%" alt="Top languages by repository"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GndsDev&theme=github_dark" width="47%" alt="Top languages by commits"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GndsDev&theme=github_dark" width="47%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GndsDev&theme=github_dark&utcOffset=-3" width="47%" alt="Productive time"/>
+
+</div>
+
+---
+
+## `> STREAK.PROTOCOL`
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=GndsDev&theme=transparent&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak"/>
 
 </div>
 
@@ -164,7 +221,7 @@ SYSTEM STATUS: ONLINE █
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GndsDev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GndsDev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -174,7 +231,13 @@ SYSTEM STATUS: ONLINE █
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=GndsDev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://img.shields.io/github/followers/GndsDev?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00F7FF" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/GndsDev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=TOTAL%20STARS&labelColor=0D1117&color=00F7FF" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/GndsDev/HubOn?style=for-the-badge&logo=github&label=LATEST%20SHIP&labelColor=0D1117&color=00F7FF" alt="Latest HubOn commit"/>
+
+<br/><br/>
+
+`ACHIEVEMENT SYSTEM // CONTRIBUTIONS • PROJECTS • CONTINUOUS EVOLUTION`
 
 </div>
 
@@ -194,17 +257,9 @@ SYSTEM STATUS: ONLINE █
 
 <div align="center">
 
-<a href="https://github.com/GndsDev">
-<img src="https://img.shields.io/badge/GITHUB-GndsDev-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9">
-<img src="https://img.shields.io/badge/LINKEDIN-GABRIEL_NUNES-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<a href="mailto:gabrielnunesdossantoss@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-</a>
+<a href="https://github.com/GndsDev"><img src="https://img.shields.io/badge/GITHUB-GndsDev-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9"><img src="https://img.shields.io/badge/LINKEDIN-GABRIEL_NUNES-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:gabrielnunesdossantoss@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-00F7FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 
 </div>
 
@@ -225,7 +280,7 @@ SYSTEM STATUS: ONLINE █
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+accessing+my+developer+profile.;%3E+Connection+terminated...;%3E+See+you+in+the+next+commit." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+accessing+my+developer+profile.;%3E+Connection+terminated...;%3E+See+you+in+the+next+commit." alt="Footer typing animation"/>
 
 <br/>
 
@@ -235,6 +290,6 @@ SYSTEM STATUS: ONLINE █
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:0f172a,100:020617&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:0f172a,100:020617&section=footer" alt="Footer"/>
 
 </div>
