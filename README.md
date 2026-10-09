@@ -1,202 +1,137 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/GndsDev/GndsDev/main/assets/profile-hero.svg" alt="Gabriel Nunes — banner autoral de engenharia de software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=900&color=E6E6E6&center=true&vCenter=true&width=760&lines=Gabriel+Nunes;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Construindo+software+com+intencionalidade" alt="Gabriel Nunes — Full Stack Developer" />
 
-<br/>
+<p>
+  <a href="https://github.com/GndsDev">
+    <img src="https://img.shields.io/badge/GitHub-GndsDev-f2f2f2?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub GndsDev" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-f2f2f2?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabrielnunesdossantoss@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-Contato-f2f2f2?style=for-the-badge&logo=gmail&logoColor=111111" alt="E-mail" />
+  </a>
+</p>
 
-<a href="https://github.com/GndsDev"><img src="https://img.shields.io/badge/GITHUB-GndsDev-101820?style=flat-square&logo=github&logoColor=D6FF63" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9"><img src="https://img.shields.io/badge/LINKEDIN-CONEXÃO-101820?style=flat-square&logo=linkedin&logoColor=D6FF63" alt="LinkedIn"/></a>
-<a href="mailto:gabrielnunesdossantoss@gmail.com"><img src="https://img.shields.io/badge/CONTATO-EMAIL-101820?style=flat-square&logo=gmail&logoColor=D6FF63" alt="E-mail"/></a>
+**Full Stack Developer | Java, Spring Boot e Angular**
 
-<br/><br/>
-
-**Eu não escrevo código só para funcionar. Quero entender o problema, projetar a solução e fazê-la durar.**
-
-<sub>JAVA & SPRING BOOT · .NET · ANGULAR · SISTEMAS REAIS</sub>
+*Entender o problema. Projetar com cuidado. Construir para evoluir.*
 
 </div>
 
 ---
 
-<div align="center">
-
-### Engenharia com propósito. Código com intenção.
-
-**Transformo problemas reais em software útil, organizado e sustentável.**
-
-[Sobre mim](#-sobre-mim) · [Tecnologias](#-caixa-de-ferramentas) · [Projetos](#-em-construção-e-destaque) · [Experiência](#-experiência-em-sistemas-reais) · [Contato](#-vamos-conversar)
-
-</div>
-
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de Tecnologia da Informação na **Controladoria-Geral do Distrito Federal (CGDF)**. Meu foco é crescer como engenheiro de software, especialmente no **Backend com Java e Spring Boot**, sem deixar de lado a visão Full Stack.
+Olá! Sou **Gabriel Nunes**, estudante de **Análise e Desenvolvimento de Sistemas** e profissional de Tecnologia da Informação na **Controladoria-Geral do Distrito Federal (CGDF)**. Tenho interesse em desenvolver soluções úteis, com código legível, responsabilidades bem definidas e atenção à manutenção.
 
-Gosto de entender o problema antes de escolher a solução: modelar regras de negócio, estruturar APIs, trabalhar com dados e construir aplicações que sejam claras para quem usa e fáceis de manter para quem desenvolve.
+Meu foco é **desenvolvimento Full Stack**, com prioridade para **Java e Spring Boot** no backend e **Angular** no frontend. Gosto de aprender como as partes de um sistema se conectam — da regra de negócio e persistência até as APIs e a experiência de quem usa a aplicação.
 
-```text
-FOCO       Backend • Full Stack • Engenharia de Software
-PRINCIPAL  Java • Spring Boot • APIs REST
-TAMBÉM     C# • .NET • Angular • TypeScript
-PRINCÍPIOS Código legível • Responsabilidade • Aprendizado contínuo
-LOCAL      Brasília — DF, Brasil
-```
+- 💻 **Foco:** desenvolvimento Full Stack, com ênfase em backend Java
+- 📚 **Estudando:** arquitetura de software, testes automatizados e sistemas distribuídos
+- 🧩 **Interesses:** APIs REST, modelagem de dados, qualidade de código e boas práticas
+- 🤝 **Aberto a:** trocar experiências, colaborar em projetos e conversar sobre oportunidades na área
 
-## Caixa de ferramentas
+## Tecnologias
 
 <div align="center">
 
 **BACKEND & LINGUAGENS**
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,js&theme=dark" alt="Java, Spring, C sharp, .NET, TypeScript e JavaScript"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=FFFFFF" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=FFFFFF" alt="C sharp" />
+<img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt=".NET" />
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=angular,html,css&theme=dark" alt="Angular, HTML e CSS"/>
+<img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=FFFFFF" alt="Angular" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
 
-**DADOS, INFRAESTRUTURA & FERRAMENTAS**
+**DADOS, INTEGRAÇÃO & FERRAMENTAS**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,git,github,idea,vscode,postman&theme=dark" alt="PostgreSQL, MySQL, Docker, RabbitMQ, Git, GitHub, IntelliJ, VS Code e Postman"/>
-
-</div>
-
-<details>
-<summary><strong>Ver tecnologias por área</strong></summary>
-
-| Área | Tecnologias |
-|---|---|
-| Backend | Java, Spring Boot, C#, .NET, ASP.NET Core |
-| APIs e persistência | REST, JPA, Entity Framework |
-| Frontend | Angular, TypeScript, JavaScript, HTML, CSS |
-| Dados e integração | PostgreSQL, MySQL, RabbitMQ, MinIO |
-| Ferramentas | Docker, Maven, Git, GitHub, IntelliJ IDEA, VS Code, Postman |
-
-</details>
-
-## Projetos que estou construindo
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ HubOn
-
-**Gestão para restaurantes · Full Stack**
-
-Aplicação para apoiar a operação de restaurantes, reunindo atendimento, comandas, vendas, pagamentos, preparo, estoque, caixa e usuários.
-
-**Stack**
-<br/>
-<img src="https://img.shields.io/badge/Java_21-101827?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java 21"/>
-<img src="https://img.shields.io/badge/Spring_Boot-101827?style=flat-square&logo=springboot&logoColor=00D9FF" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Angular_21-101827?style=flat-square&logo=angular&logoColor=00D9FF" alt="Angular 21"/>
-<img src="https://img.shields.io/badge/PostgreSQL-101827?style=flat-square&logo=postgresql&logoColor=00D9FF" alt="PostgreSQL"/>
-
-[**Explorar repositório →**](https://github.com/GndsDev/HubOn)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Abbainc
-
-**Projeto de software**
-
-Um dos projetos do meu portfólio para praticar desenvolvimento, organização de código e evolução de soluções.
-
-[**Explorar repositório →**](https://github.com/GndsDev/Abbainc)
-
-<hr/>
-
-### ⌬ CadMed
-
-**Aplicação em desenvolvimento**
-
-Projeto do portfólio voltado à prática de desenvolvimento e aplicação de conceitos de engenharia de software.
-
-[**Explorar repositório →**](https://github.com/GndsDev/CadMed)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[**Ver todos os repositórios →**](https://github.com/GndsDev?tab=repositories)
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker" />
+<img src="https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=FFFFFF" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF" alt="Maven" />
 
 </div>
 
-## Software em contexto real
+## Projetos em destaque
 
-Na CGDF, tenho contato com sistemas institucionais e atividades de tecnologia. Entre os sistemas para os quais contribuí estão:
+### HubOn — gestão para restaurantes
 
-<table>
-<tr>
-<td width="34%" valign="top">
+Aplicação Full Stack voltada à organização de operações de restaurantes, incluindo atendimento, comandas, vendas, pagamentos, preparo, estoque, caixa e usuários.
 
-**Portal da Transparência do DF**
+**Tecnologias do projeto:** Java 21, Spring Boot, Spring Security, JPA, Angular 21, TypeScript, Tailwind CSS, RxJS, PostgreSQL, Flyway, JWT e Docker Compose.
 
-Contribuições em um portal dedicado à transparência e à consulta de informações públicas.
+[**Ver repositório do HubOn →**](https://github.com/GndsDev/HubOn)
 
-</td>
-<td width="33%" valign="top">
+### Outros repositórios
 
-**INTEGRA**
+- [**Abbainc**](https://github.com/GndsDev/Abbainc) — repositório de projeto pessoal.
+- [**CadMed**](https://github.com/GndsDev/CadMed) — repositório de projeto pessoal.
+- [**Todos os repositórios**](https://github.com/GndsDev?tab=repositories) — explore outros códigos e projetos.
 
-Sistema de Auditoria do Distrito Federal, sucessor do SAEWeb.
+## Experiência com sistemas reais
 
-</td>
-<td width="33%" valign="top">
+Na **CGDF**, tenho contato com sistemas institucionais e atividades de tecnologia. Entre os sistemas para os quais contribuí estão:
 
-**SCI**
+- **Portal da Transparência do Distrito Federal** — portal para consulta de informações públicas e transparência governamental.
+- **INTEGRA** — sistema de auditoria do Distrito Federal, sucessor do SAEWeb.
+- **SCI — Sistema Correcional Integrado** — sistema relacionado aos processos correcionais do Distrito Federal.
 
-Sistema Correcional Integrado, voltado aos processos do sistema correcional do Distrito Federal.
+## No que estou evoluindo
 
-</td>
-</tr>
-</table>
+Meu objetivo é fortalecer a base de engenharia de software e aplicar esse conhecimento de forma consistente:
 
-## O que vem a seguir
+- Arquitetura de software e organização de aplicações
+- Testes automatizados e qualidade de código
+- Sistemas distribuídos e integração entre serviços
+- Desenvolvimento backend com Java e Spring Boot
+- Desenvolvimento Full Stack com Angular
 
-```text
-AGORA
-├─ Aprofundar Java e Spring Boot
-├─ Projetar APIs REST claras e seguras
-├─ Evoluir arquitetura e modelagem de dados
-├─ Aprimorar Angular e desenvolvimento Full Stack
-└─ Fortalecer testes automatizados e qualidade de código
-
-PRÓXIMAS FRONTEIRAS
-├─ Padrões de projeto e arquitetura
-├─ CI/CD e automação de entregas
-└─ Sistemas distribuídos e nuvem
-```
-
-## Atividade no GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GndsDev&theme=github_dark" alt="Resumo de atividade no GitHub"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GndsDev&theme=github_dark" alt="Linguagens dos repositórios"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GndsDev&theme=github_dark" alt="Estatísticas do GitHub"/>
-
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=GndsDev&bg_color=0d1117&color=00d9ff&line=00bcd4&point=f4fbff&area=true&hide_border=true" alt="Gráfico de atividade"/>
+<a href="https://github.com/GndsDev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GndsDev&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=BDBDBD&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Gabriel Nunes" />
+</a>
+<a href="https://github.com/GndsDev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GndsDev&layout=compact&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=BDBDBD&langs_count=6&locale=pt-br" alt="Linguagens mais usadas nos repositórios de Gabriel Nunes" />
+</a>
 
 </div>
 
-## Vamos conversar
+<p align="center">
+  <sub>Os cartões são gerados dinamicamente a partir dos dados públicos disponíveis no GitHub. A distribuição de linguagens representa código nos repositórios, não uma avaliação de proficiência.</sub>
+</p>
 
-Estou aberto a oportunidades na área de desenvolvimento de software, especialmente **Backend Java**, e a conversas sobre tecnologia, projetos e boas práticas.
+---
+
+## Vamos conversar?
+
+Se você trabalha com desenvolvimento, está construindo algo interessante ou quer trocar ideias sobre Java, Spring Boot, Angular e engenharia de software, entre em contato.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-101827?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
-<a href="mailto:gabrielnunesdossantoss@gmail.com"><img src="https://img.shields.io/badge/E--mail-Me_escreva-101827?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="E-mail"/></a>
+<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel_Nunes-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Conecte-se no LinkedIn" />
+</a>
+<a href="mailto:gabrielnunesdossantoss@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-Enviar_mensagem-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111" alt="Enviar e-mail" />
+</a>
 
-<br/><br/>
+<br />
 
-*“Grandes sistemas começam com boas perguntas — e evoluem a cada iteração.”*
-
-<sub>GABRIEL NUNES · BRASÍLIA, BRASIL · FEITO COM CURIOSIDADE E CAFÉ</sub>
+**Código claro. Aprendizado contínuo. Soluções que evoluem.**
 
 </div>
