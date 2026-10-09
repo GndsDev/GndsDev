@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:101a2d,100:00d9ff&text=GABRIEL%20NUNES&fontColor=f4fbff&fontSize=54&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20BACKEND%20%E2%80%A2%20FULL%20STACK&descAlignY=59&descSize=15&animation=fadeIn" alt="Gabriel Nunes — Engenharia de Software"/>
-
-<a href="https://github.com/GndsDev"><img src="https://img.shields.io/badge/GitHub-GndsDev-101827?style=flat-square&logo=github&logoColor=00D9FF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9"><img src="https://img.shields.io/badge/LinkedIn-Conectar-101827?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
-<a href="mailto:gabrielnunesdossantoss@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-101827?style=flat-square&logo=gmail&logoColor=00D9FF" alt="E-mail"/></a>
+<img width="100%" src="https://raw.githubusercontent.com/GndsDev/GndsDev/main/assets/profile-hero.svg" alt="Gabriel Nunes — banner autoral de engenharia de software"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GndsDev&style=flat-square&color=00bcd4&label=VISITAS" alt="Visitas ao perfil"/>
+<a href="https://github.com/GndsDev"><img src="https://img.shields.io/badge/GITHUB-GndsDev-101820?style=flat-square&logo=github&logoColor=D6FF63" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gabriel-nunes-dos-santos-2221581b9"><img src="https://img.shields.io/badge/LINKEDIN-CONEXÃO-101820?style=flat-square&logo=linkedin&logoColor=D6FF63" alt="LinkedIn"/></a>
+<a href="mailto:gabrielnunesdossantoss@gmail.com"><img src="https://img.shields.io/badge/CONTATO-EMAIL-101820?style=flat-square&logo=gmail&logoColor=D6FF63" alt="E-mail"/></a>
+
+<br/><br/>
+
+**Eu não escrevo código só para funcionar. Quero entender o problema, projetar a solução e fazê-la durar.**
+
+<sub>JAVA & SPRING BOOT · .NET · ANGULAR · SISTEMAS REAIS</sub>
 
 </div>
 
@@ -24,7 +28,7 @@
 
 </div>
 
-## `01 / SOBRE MIM`
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de Tecnologia da Informação na **Controladoria-Geral do Distrito Federal (CGDF)**. Meu foco é crescer como engenheiro de software, especialmente no **Backend com Java e Spring Boot**, sem deixar de lado a visão Full Stack.
 
@@ -38,7 +42,7 @@ PRINCÍPIOS Código legível • Responsabilidade • Aprendizado contínuo
 LOCAL      Brasília — DF, Brasil
 ```
 
-## `02 / CAIXA DE FERRAMENTAS`
+## Caixa de ferramentas
 
 <div align="center">
 
@@ -69,7 +73,7 @@ LOCAL      Brasília — DF, Brasil
 
 </details>
 
-## `03 / EM CONSTRUÇÃO E DESTAQUE`
+## Projetos que estou construindo
 
 <table>
 <tr>
@@ -121,7 +125,7 @@ Projeto do portfólio voltado à prática de desenvolvimento e aplicação de co
 
 </div>
 
-## `04 / EXPERIÊNCIA EM SISTEMAS REAIS`
+## Software em contexto real
 
 Na CGDF, tenho contato com sistemas institucionais e atividades de tecnologia. Entre os sistemas para os quais contribuí estão:
 
@@ -151,7 +155,7 @@ Sistema Correcional Integrado, voltado aos processos do sistema correcional do D
 </tr>
 </table>
 
-## `05 / NO RADAR`
+## O que vem a seguir
 
 ```text
 AGORA
@@ -167,7 +171,7 @@ PRÓXIMAS FRONTEIRAS
 └─ Sistemas distribuídos e nuvem
 ```
 
-## `06 / ATIVIDADE NO GITHUB`
+## Atividade no GitHub
 
 <div align="center">
 
@@ -180,7 +184,7 @@ PRÓXIMAS FRONTEIRAS
 
 </div>
 
-## `07 / VAMOS CONVERSAR`
+## Vamos conversar
 
 Estou aberto a oportunidades na área de desenvolvimento de software, especialmente **Backend Java**, e a conversas sobre tecnologia, projetos e boas práticas.
 
